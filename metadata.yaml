@@ -1,0 +1,25 @@
+_repo: Program-for-October-1929--The-Wyoming-Valley-Woman-s-Club-of-Wilkes-Barre_40944
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40944-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wyoming Valley Woman's Club (Wilkes-Barre, Pennsylvania)
+    gutenberg_agent_id: '45821'
+    url: http://www.gutenberg.org/2009/agents/45821
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Societies and clubs'
+- !lcsh 'Wyoming Valley Woman''s Club (Wilkes-Barre, Pennsylvania)'
+- !lcc 'HQ'
+title: 'Program for October 1929: The Wyoming Valley Woman''s Club of Wilkes-Barre'
+url: http://www.gutenberg.org/ebooks/40944
